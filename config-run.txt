@@ -1,3 +1,0 @@
-server.port=5529
-spring.application.name=springcloudconfig-run
-mybatis
