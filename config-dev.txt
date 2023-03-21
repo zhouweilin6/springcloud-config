@@ -1,2 +1,0 @@
-server.port=5528
-spring.application.name=springcloudConfig
